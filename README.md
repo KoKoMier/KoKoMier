@@ -1,4 +1,5 @@
 <img align="right" src="https://count.getloli.com/get/@:KoKoMier?theme=gelbooru-h" />
+<img  align="left" src="https://github-profile-trophy.vercel.app/?username=KoKoMier" />
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=KokoMier" />
 
