@@ -1,7 +1,11 @@
 <h1 align="center">Hi 👋, I'm KoKoMier</h1>
+
 ![:Augenestern-creator](https://count.getloli.com/get/@:KoKoMier?theme=gelbooru-h)
 
 <h3 align="center">A passionate frontend developer from China</h3>
+
+[![KokoMier's GitHub stats](https://github-readme-stats.vercel.app/api?username=KokoMier)](https://github.com/anuraghazra/github-readme-stats)
+
 
 - 🔭 I’m currently working on **SWUST**
 
