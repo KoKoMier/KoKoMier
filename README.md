@@ -5,8 +5,6 @@
 
 
 
-<!-- Markdown -->
-![](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 <!-- HTML -->
 <img alt="Python" src="https://img.shields.io/badge/-Python-FADC6A?style=flat-square&logo=python" />
 <img alt="C" src="https://img.shields.io/badge/-C/C++-DAE8FC?style=flat-square&logo=c" />
