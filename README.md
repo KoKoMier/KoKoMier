@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm KoKoMier</h1>
 
-<img align="right" src="https://count.getloli.com/get/@:KoKoMier?theme=gelbooru-h" />
+<img align="center" src="https://count.getloli.com/get/@:KoKoMier?theme=gelbooru-h" />
 
 <h3 align="center">A passionate frontend developer from China</h3>
 
-<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=KokoMier" />
+<img width="50%" align="center" src="https://github-readme-stats.vercel.app/api?username=KokoMier" />
 
 - 🔭 I’m currently working on **SWUST**
 
