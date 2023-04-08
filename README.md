@@ -1,7 +1,7 @@
 
-<img align="center" src="https://count.getloli.com/get/@:KoKoMier?theme=gelbooru-h" />
+<img align="right" src="https://count.getloli.com/get/@:KoKoMier?theme=gelbooru-h" />
 
-<img width="50%" align="center" src="https://github-readme-stats.vercel.app/api?username=KokoMier" />
+<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=KokoMier" />
 
 <h1 align="center">Hi 👋, I'm KoKoMier</h1>
 
