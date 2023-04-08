@@ -2,7 +2,7 @@
 <img align="right" src="https://count.getloli.com/get/@:KoKoMier?theme=gelbooru-h" />
 
 <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=KokoMier" />
-<div width="50%" align="right"> <img src="https://metrics.lecoq.io/KoKoMier?template=classic&config.timezone=Asia%2FShanghai"> </div>
+<div width="40%" align="right"> <img src="https://metrics.lecoq.io/KoKoMier?template=classic&config.timezone=Asia%2FShanghai"> </div>
 <img align="right" src="https://github-profile-trophy.vercel.app/?username=KoKoMier" />
 <h1 align="center">Hi 👋, I'm KoKoMier</h1>
 
