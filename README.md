@@ -1,8 +1,8 @@
-<img align="left" src="https://count.getloli.com/get/@:KoKoMier?theme=gelbooru-h" />
+<img width="50" align="left" src="https://count.getloli.com/get/@:KoKoMier?theme=gelbooru-h" />
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=KokoMier" />
-<div align="right"> <img src="https://metrics.lecoq.io/KoKoMier?template=classic&config.timezone=Asia%2FShanghai"> </div>
-<img align="right" src="https://github-profile-trophy.vercel.app/?username=KoKoMier" />
+<img width="50" align="left" src="https://github-readme-stats.vercel.app/api?username=KokoMier" />
+<div width="50" align="right"> <img src="https://metrics.lecoq.io/KoKoMier?template=classic&config.timezone=Asia%2FShanghai"> </div>
+<img width="50" align="right" src="https://github-profile-trophy.vercel.app/?username=KoKoMier" />
 <h1 align="lett">Hi 👋, I'm KoKoMier</h1>
 
 <h3 align="letf">A passionate frontend developer from China</h3>
