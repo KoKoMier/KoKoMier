@@ -1,11 +1,12 @@
 
+<h1 align="lett">Hi 👋, I'm KoKoMier</h1>
+
+<h2 align="lett"></h2>
 <img align="right" src="https://count.getloli.com/get/@:KoKoMier?theme=gelbooru-h" />
 
 <img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=KokoMier" />
 <div width="40%" align="right"> <img src="https://metrics.lecoq.io/KoKoMier?template=classic&config.timezone=Asia%2FShanghai"> </div>
 <img align="right" src="https://github-profile-trophy.vercel.app/?username=KoKoMier" />
-<h1 align="lett">Hi 👋, I'm KoKoMier</h1>
-
 <h3 align="letf">A passionate frontend developer from China</h3>
 
   Hello, I’m KoKoMier from swust University. My favorite thing to do is to watch fan dramas. I’m an old second-generation actor. I’ve been interested in animation since elementary school. How about you have the same hobby as me? We We can communicate together.  
