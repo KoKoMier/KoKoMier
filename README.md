@@ -21,5 +21,5 @@
 
 <div align="right"> <img src="https://metrics.lecoq.io/KoKoMier?template=classic&config.timezone=Asia%2FShanghai"> </div>
 
-<img width="50%" align="left" src="https://github-profile-trophy.vercel.app/?username=KoKoMier)](https://github.com/ryo-ma/github-profile-trophy" />
+<img width="50%" align="left" src="https://github-profile-trophy.vercel.app/?username=KoKoMier" />
 
