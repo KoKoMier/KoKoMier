@@ -21,6 +21,6 @@
 
 
 
-<div align="center"> <img src="https://metrics.lecoq.io/KoKoMier?template=classic&config.timezone=Asia%2FShanghai"> </div>
+<div align="right"> <img src="https://metrics.lecoq.io/KoKoMier?template=classic&config.timezone=Asia%2FShanghai"> </div>
 
 
