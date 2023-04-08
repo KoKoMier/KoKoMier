@@ -1,4 +1,4 @@
 # :man_technologist: KoKoMier
 
 
-![:Augenestern-creator](https://count.getloli.com/get/@:KoKoMier?theme=rule34-h)
+![:Augenestern-creator](https://count.getloli.com/get/@:KoKoMier?theme=moebooru-h)
