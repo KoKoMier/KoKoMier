@@ -7,25 +7,7 @@ Meu nome é Lucas Bittencourt, 21, apaixonado por Tecnologia e Programação! :h
 - :blue_heart: Techs: React.js, React Native, Node.js, TypeScript, Docker, entre outras
 - :books: Estudando Relay e GraphQL
 
-> :octocat: [lucasbittencourt.dev](https://lucasbittencourt.dev)
-
----
-
-<details>
-  <summary> <b> Quer saber mais sobre mim? </b> <i>(Clique aqui para expandir)</i> </summary>
-  <br>
-  
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=lucasgdb&show_icons=true&count_private=true&theme=radical&hide=issues" />
-  </a>
-  
----
-  
-  <p align="center">
-    <a href="https://github.com/ryo-ma/github-profile-trophy" align="center">
-      <img align="center" src="https://github-profile-trophy.vercel.app/?theme=dracula&margin-w=8&column=6&username=KoKoMier" alt="Trophies" />
-    </a>
-  </p>
+<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=KoKoMier" />
 
 ## Algumas Tecnologias
 
