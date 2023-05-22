@@ -7,7 +7,7 @@
 
 <h3 align="letf">A passionate frontend developer from China</h3>
 
-  Hello, I’m KoKoMier from swust University. My favorite thing to do is to watch cartoon. I’m an old ACCG fans. I’ve been interested in animation since elementary school. How about you have the same hobby as me? We We can communicate together.  
+  Hello, I’m KoKoMier from swust University. My favorite thing to do is to watch cartoon. I’m an old ACCG fans. I’ve been interested in animation since elementary school. How about you have the same hobby as me? We can communicate together.  
   In0 addition, I am also interested in software, programs, and mechanical control. Now, I have learned the use of stm32 and host development boards, and I have also done visual projects. Therefore, I will release some information about vision and machinery from time to time. Control code, I hope you can pay attention to me
 
 ---🔭 I’m currently studying on **SWUST** ---💬 Ask me about **https://github.com/KoKoMier**
